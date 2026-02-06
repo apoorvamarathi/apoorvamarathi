@@ -48,8 +48,8 @@ I actively work on hands-on projects that focus on:
 ---
 
 ### 📫 How to Reach Me
-- **LinkedIn:** *(add your LinkedIn link here)*
-- **Email:** *(add your professional email here)*
+- **LinkedIn:** *https://www.linkedin.com/in/apoorva-marathi-bb40b7300/*
+
 
 ---
 
