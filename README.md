@@ -10,7 +10,8 @@ I enjoy turning ideas into functional, user-friendly products using modern web t
 ### 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
-- **Database:** MongoDB
+- **Data Science & ML:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Database:** MongoDB,SQL
 - **Other:** Git, GitHub, REST APIs
 
 ---
