@@ -1,57 +1,155 @@
-## Hi there 👋 I'm Apoorva Marathi
+# Hi there 👋 I'm Apoorva Marathi
 
-### 🚀 Aspiring Full Stack Developer | MERN Stack | Open to Internship Opportunities
+### 📊 Aspiring Data Analyst | SQL · Python · Power BI · Machine Learning
 
-I am a Computer Science student with a strong interest in building real-world web applications.  
-I enjoy turning ideas into functional, user-friendly products using modern web technologies.
+I am a Computer Science student specializing in Data Science, passionate about turning raw data into **meaningful insights and business decisions**.
 
----
+I enjoy working with data — from **data cleaning and SQL analysis to exploratory data analysis, dashboards, and machine learning models**.
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Data Science & ML:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Database:** MongoDB,SQL
-- **Other:** Git, GitHub, REST APIs
+🎯 Currently looking for **Entry-Level Data Analyst / Data Analytics opportunities**.
 
 ---
 
-### 🔭 What I’m Currently Working On
-- Building MERN stack projects to strengthen real-world development skills  
-- Improving frontend UI/UX and responsive design  
-- Practicing backend logic and API integration
+## 🛠️ Technical Skills
+
+### 📌 Data Analytics
+
+* SQL
+* Python
+* Excel
+* Statistics
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* KPI Analysis
+* Business & Customer Analytics
+* Sales Analytics
+* RFM Analysis
+* Data Segmentation
+
+### 📊 Data Visualization
+
+* Power BI
+* DAX
+* Power Query
+* Tableau
+* Matplotlib
+* Plotly
+* Excel Dashboards
+
+### 🤖 Machine Learning
+
+* Scikit-learn
+* K-Means Clustering
+* Logistic Regression
+* Random Forest
+* Gradient Boosting
+* Regression
+* Churn Prediction
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* SQL Server
+* MongoDB (Basic)
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* VS Code
+* FastAPI
+* Data Warehousing
 
 ---
 
-### 🌱 What I’m Currently Learning
-- Advanced React concepts  
-- Backend optimization and clean architecture  
-- Basics of Data Analysis and Web Scraping
+## 🚀 Featured Projects
+
+### 🛒 RetainIQ — AI-Powered E-Commerce Business Intelligence Platform
+
+**Python · PostgreSQL · Machine Learning · Power BI**
+
+* Processed **5,000+ e-commerce transactions** through an ETL pipeline.
+* Used **RFM Analysis and K-Means Clustering** to create 4 customer segments.
+* Built a **churn prediction model** achieving approximately **87% accuracy**.
+* Analyzed customer behavior, sales trends, and business KPIs.
+* Developed interactive dashboards and automated PDF/Excel reports.
+
+🔗 Check the repository for the complete project.
 
 ---
 
-### 💡 Projects
-I actively work on hands-on projects that focus on:
-- Practical problem-solving  
-- Clean and readable code  
-- Scalable and maintainable structure  
+### 📈 Sales Data Warehouse Analysis
 
-📌 Check out my repositories to see my work.
+**SQL Server · T-SQL · Power BI**
 
----
+* Analyzed approximately **10,000 sales records** across fact and dimension tables.
+* Used advanced SQL including **CTEs, subqueries, and window functions**.
+* Created running totals, moving averages, rankings, and cumulative analysis.
+* Identified top customers, products, regions, and categories by revenue.
+* Built a consolidated **Power BI dashboard** to present business insights.
 
-### 👯 Looking to Collaborate On
-- Web development projects  
-- Open-source contributions  
-- Internship-level real-world applications
+🔗 Check the repository for the complete SQL analysis.
 
 ---
 
-### 📫 How to Reach Me
-- **LinkedIn:** *https://www.linkedin.com/in/apoorva-marathi-bb40b7300/*
+### 💧 SlumAI Optimizer — Urban Water & Resource Management
 
+**Python · PostgreSQL · Machine Learning · Power BI**
+
+* Cleaned and analyzed **3,660 zone-day records** using PostgreSQL.
+* Created analytical features such as water demand per capita, waste per capita, and health cases per 1,000.
+* Built **Random Forest, Linear Regression, and Gradient Boosting** models for water-demand prediction.
+* Developed classification models to categorize zones based on risk.
+* Built a resource-optimization system to calculate **resource allocation and unmet demand**.
+* Created dashboards and automated reporting for decision-making.
+
+🔗 Check the repository for the complete project.
 
 ---
 
-### ⚡ Quick Note
-I am passionate about learning, consistent in improving my skills, and eager to contribute to a team where I can grow as a developer and add value from day one.
+## 📚 Currently Learning
+
+* Advanced SQL
+* Advanced Power BI & DAX
+* Business Analytics
+* Statistical Analysis
+* Machine Learning for Business Problems
+* Data Storytelling
+* Advanced Excel
+
+---
+
+## 🤝 Open to Collaborate On
+
+* Data Analytics projects
+* SQL projects
+* Power BI dashboards
+* Machine Learning projects
+* Business Intelligence projects
+* Open-source data projects
+
+---
+
+## 🏆 Certifications & Achievements
+
+* 📊 Deloitte — Data Analytics Job Simulation
+* 🤖 GenAI-Powered Data Analytics Job Simulation — Forage
+* 📗 Advanced Excel Certification — Udemy
+* 🏆 Participated in **4+ hackathons** focused on data analytics and problem-solving
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Apoorva Marathi](https://www.linkedin.com/in/apoorva-marathi-bb40b7300/)
+* 💻 GitHub: [apoorvamarathi](https://github.com/apoorvamarathi)
+* 📧 Email: [apoorvamarathi@gmail.com](mailto:apoorvamarathi@gmail.com)
+
+---
+
+### ⚡ My Goal
+
+> **Turn data into insights, insights into decisions, and decisions into business impact.**
+
+I'm continuously learning, building real-world projects, and looking for opportunities where I can contribute as a **Data Analyst** and grow with the team.
